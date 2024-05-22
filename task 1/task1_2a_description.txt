@@ -1,0 +1,20 @@
+I chose http, filesystem (fs), and path for my deeper exploration in task 1
+
+2a:
+
+1. http
+The http module is used to create an HTTP server and client in Node.js. 
+It allows developers to set up servers that can handle HTTP requests and responses, 
+making it a foundational piece for web applications. It supports various request and response methods,
+ including GET, POST, PUT, and DELETE.
+
+2. filesystem (fs)
+The fs module provides an API for interacting with the file system. 
+It allows reading, writing, updating, and deleting multiple files. 
+This module supports both synchronous and asynchronous operations (multiple files, one file) 
+making it versatile for various file handling tasks in Node.js applications.
+
+3. path
+The path module provides options for working with file and directory paths. 
+It is useful for handling file paths in a way that is portable across different OS.
+This module helps in constructing paths, resolving absolute paths, and normalizing path strings.
